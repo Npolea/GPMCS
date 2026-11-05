@@ -1,0 +1,19 @@
+configuration,seed,accuracy_percent,protocol,updates,test_samples,run_directory,verification_status,notes
+full,0,94.675818,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/full/seed0,PASS,
+full,1,95.028986,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/full/seed1,PASS,
+full,2,94.409276,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/full/seed2,PASS,
+count_only,0,95.442127,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/count_only/seed0,PASS,
+count_only,1,95.028986,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/count_only/seed1,PASS,
+count_only,2,95.721996,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/count_only/seed2,PASS_STREAMING_MANIFEST,Passed unchanged verify_run assertions via streaming manifest reader; original 552365867-byte manifest preserved. See r3_1_manuscript_integration_audit.json.
+feedback_frozen,0,93.622976,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/feedback_frozen/seed0,PASS,
+feedback_frozen,1,93.762911,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/feedback_frozen/seed1,PASS,
+feedback_frozen,2,94.529220,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/feedback_frozen/seed2_snapshotfix_20261029_152000,PASS,Final available seed2 run; interrupted seed2 and retry directories are empty.
+fixed_fusion,0,93.409742,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/fixed_fusion/seed0,PASS,
+fixed_fusion,1,95.655361,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/fixed_fusion/seed1,PASS,
+fixed_fusion,2,95.282202,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/fixed_fusion/seed2,PASS,
+no_ucb,0,94.802426,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/no_ucb/seed0,PASS,
+no_ucb,1,94.622509,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/no_ucb/seed1,PASS,
+no_ucb,2,94.569201,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/no_ucb/seed2_snapshotfix_20261029_170318,PASS,Final available seed2 run; original seed2 directory contains an incomplete attempt.
+utility_decoupled,0,95.715333,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/utility_decoupled/seed0,PASS,
+utility_decoupled,1,94.922370,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/utility_decoupled/seed1,PASS,
+utility_decoupled,2,94.402612,coupled_validation_final_v2,150,15007,system/revision_runs/second_revision_r3_1_cifar10_20261028/Cifar10/utility_decoupled/seed2,PASS,
