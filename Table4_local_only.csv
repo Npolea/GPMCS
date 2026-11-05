@@ -1,0 +1,10 @@
+method,metric,mean_percent,sample_sd_pp,source
+Local-only,sample_weighted_accuracy,96.80,0.04,manuscript transcription
+Local-only,client_unweighted_accuracy,94.78,0.14,manuscript transcription
+Local-only,macro_recall,96.79,0.04,manuscript transcription
+Matched GPMCS ($gr=150$),sample_weighted_accuracy,94.70,0.31,manuscript transcription
+Matched GPMCS ($gr=150$),client_unweighted_accuracy,90.14,1.80,manuscript transcription
+Matched GPMCS ($gr=150$),macro_recall,94.69,0.31,manuscript transcription
+Training-label majority,sample_weighted_accuracy,89.54,,manuscript transcription
+Training-label majority,client_unweighted_accuracy,86.02,,manuscript transcription
+Training-label majority,macro_recall,89.47,,manuscript transcription
